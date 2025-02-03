@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/CodewithShaaz",
   resume:
-    "https://drive.google.com/file/d/1XU_FOh6y9GWBIhE-ptY0yScHpRC4enFt/view?usp=drive_link",
+    "https://drive.google.com/file/d/1IToC2kVFml_YGxcfV26fWUbWr0MP7bao/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/md-shaaz-ahmed-a078b2246/",
   twitter: "https://x.com/Shaaz1111",
   insta: "https://www.instagram.com/dark..knightt/",
@@ -260,16 +260,7 @@ export const skills = [
         image:
           "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
       },
-      {
-        name: "Adobe XD",
-        image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-      },
-      {
-        name: "Figma",
-        image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
-      },
+     
     ],
   },
 ];
