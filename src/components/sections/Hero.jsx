@@ -228,7 +228,7 @@ const Hero = () => {
                     </motion.div>
 
                     <ResumeButton 
-                    href="https://drive.google.com/file/d/1XU_FOh6y9GWBIhE-ptY0yScHpRC4enFt/view?usp=drive_link" 
+                    href="https://drive.google.com/file/d/13f10lzAlEko0O055t7DG88-0EIisnZFJ/view?usp=sharing" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     >

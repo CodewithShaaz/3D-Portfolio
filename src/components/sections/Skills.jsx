@@ -120,7 +120,7 @@ const Skills = () => {
             <Desc style = {{
                 marginBottom : "40px",
             }}>
-                Here are some of my skills on which I have been working on since past 3 years.
+                Here are some of my skills on which I have been working on
             </Desc>
             <SkillsContainer>
                 {skills.map((skill,index)=>(
